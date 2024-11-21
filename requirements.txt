@@ -1,7 +1,9 @@
 flask
 flask-cors
+numpy
 torch
 torchvision
-numpy
-scikit-learn
 pillow
+requests
+scikit-learn
+azure-storage-blob
